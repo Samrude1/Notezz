@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# npm
+package-lock.json
+yarn.lock
+
+# MacOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.jks
+*.keystore
