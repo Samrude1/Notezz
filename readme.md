@@ -36,6 +36,18 @@ A beautiful and functional mobile note-taking application built with **React Nat
     npm start
     ```
 
+4.  **Run on Mobile (Expo Go):**
+    *   **Download Expo Go:** Install the "Expo Go" app from the App Store (iOS) or Google Play Store (Android).
+    *   **Connect:** Ensure your phone and computer are on the **same Wi-Fi network**.
+    *   **Scan QR Code:**
+        *   **Android:** Open Expo Go and scan the QR code displayed in your terminal.
+        *   **iOS:** Open the Camera app and scan the QR code.
+    *   **Troubleshooting:** If it doesn't connect, try switching the connection type to "Tunnel" by pressing `s` in the terminal to switch to Expo Go, and then `t` for tunnel.
+
+5.  **Run on Emulator/Simulator:**
+    *   Press `a` in the terminal to open on Android Emulator.
+    *   Press `i` in the terminal to open on iOS Simulator (macOS only).
+
 ## 📱 Tech Stack
 
 *   **React Native**
